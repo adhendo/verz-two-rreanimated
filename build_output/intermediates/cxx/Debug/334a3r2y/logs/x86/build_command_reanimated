@@ -1,0 +1,4 @@
+/Users/adamhendrickson/Library/Android/sdk/cmake/3.18.1/bin/ninja \
+  -C \
+  /Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/.cxx/Debug/334a3r2y/x86 \
+  reanimated

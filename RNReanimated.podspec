@@ -14,18 +14,18 @@ version_flag = '-DREANIMATED_VERSION=' + reanimated_package_json["version"]
 
 Pod::Spec.new do |s|
   
-  s.name         = "RNReanimated"
+  s.name         = "RNReanimatedA"
   s.version      = reanimated_package_json["version"]
   s.summary      = reanimated_package_json["description"]
   s.description  = <<-DESC
                   RNReanimated
                    DESC
-  s.homepage     = "https://github.com/software-mansion/react-native-reanimated"
+  s.homepage     = "https://github.com/adhendo/verz-two-rreanimated"
   s.license      = "MIT"
   # s.license    = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author       = { "author" => "author@domain.cn" }
   s.platforms    = { :ios => "9.0", :tvos => "9.0" }
-  s.source       = { :git => "https://github.com/software-mansion/react-native-reanimated.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/adhendo/verz-two-rreanimated.git"}
 
   s.source_files = [
     "ios/**/*.{mm,h,m}",

@@ -1,0 +1,29 @@
+/Users/adamhendrickson/Library/Android/sdk/cmake/3.18.1/bin/cmake \
+  -H/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android \
+  -DCMAKE_SYSTEM_NAME=Android \
+  -DCMAKE_EXPORT_COMPILE_COMMANDS=ON \
+  -DCMAKE_SYSTEM_VERSION=16 \
+  -DANDROID_PLATFORM=android-16 \
+  -DANDROID_ABI=arm64-v8a \
+  -DCMAKE_ANDROID_ARCH_ABI=arm64-v8a \
+  -DANDROID_NDK=/Users/adamhendrickson/Library/Android/sdk/ndk/23.1.7779620 \
+  -DCMAKE_ANDROID_NDK=/Users/adamhendrickson/Library/Android/sdk/ndk/23.1.7779620 \
+  -DCMAKE_TOOLCHAIN_FILE=/Users/adamhendrickson/Library/Android/sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake \
+  -DCMAKE_MAKE_PROGRAM=/Users/adamhendrickson/Library/Android/sdk/cmake/3.18.1/bin/ninja \
+  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/build/intermediates/cxx/Debug/334a3r2y/obj/arm64-v8a \
+  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/build/intermediates/cxx/Debug/334a3r2y/obj/arm64-v8a \
+  -DCMAKE_BUILD_TYPE=Debug \
+  -B/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/.cxx/Debug/334a3r2y/arm64-v8a \
+  -GNinja \
+  -DANDROID_STL=c++_shared \
+  -DREACT_NATIVE_MINOR_VERSION=67 \
+  -DANDROID_TOOLCHAIN=clang \
+  -DBOOST_VERSION=1_63_0 \
+  -DREACT_NATIVE_DIR=/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/node_modules/react-native \
+  -DJS_RUNTIME=jsc \
+  -DJS_RUNTIME_DIR=/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/node_modules/react-native/ReactCommon/jsi \
+  -DCLIENT_SIDE_BUILD=false \
+  -DIS_NEW_ARCHITECTURE_ENABLED=false \
+  -DREANIMATED_PACKAGE_BUILD=1 \
+  -DREANIMATED_VERSION=2.17.0 \
+  -DHERMES_ENABLE_DEBUGGER=0

@@ -1,0 +1,184 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 16 min SDK version: armeabi-v7a",
+    "file_": "/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -359829269
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON /Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/.cxx/Debug/334a3r2y/armeabi-v7a/android_gradle_build.json due to:",
+    "file_": "/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1819075302
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json /Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/.cxx/Debug/334a3r2y/armeabi-v7a/android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 142366556
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file /Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/.cxx/Debug/334a3r2y/armeabi-v7a/metadata_generation_command.txt, will remove stale json folder",
+    "file_": "/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 175109882
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1154158919
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/.cxx/Debug/334a3r2y/armeabi-v7a\u0027",
+    "file_": "/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1124082933
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/.cxx/Debug/334a3r2y/armeabi-v7a\u0027",
+    "file_": "/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -799711231
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake /Users/adamhendrickson/Library/Android/sdk/cmake/3.18.1/bin/cmake \\\n  -H/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d16 \\\n  -DANDROID_PLATFORM\u003dandroid-16 \\\n  -DANDROID_ABI\u003darmeabi-v7a \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a \\\n  -DANDROID_NDK\u003d/Users/adamhendrickson/Library/Android/sdk/ndk/23.1.7779620 \\\n  -DCMAKE_ANDROID_NDK\u003d/Users/adamhendrickson/Library/Android/sdk/ndk/23.1.7779620 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/Users/adamhendrickson/Library/Android/sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/Users/adamhendrickson/Library/Android/sdk/cmake/3.18.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/build/intermediates/cxx/Debug/334a3r2y/obj/armeabi-v7a \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/build/intermediates/cxx/Debug/334a3r2y/obj/armeabi-v7a \\\n  -DCMAKE_BUILD_TYPE\u003dDebug \\\n  -B/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/.cxx/Debug/334a3r2y/armeabi-v7a \\\n  -GNinja \\\n  -DANDROID_STL\u003dc++_shared \\\n  -DREACT_NATIVE_MINOR_VERSION\u003d67 \\\n  -DANDROID_TOOLCHAIN\u003dclang \\\n  -DBOOST_VERSION\u003d1_63_0 \\\n  -DREACT_NATIVE_DIR\u003d/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/node_modules/react-native \\\n  -DJS_RUNTIME\u003djsc \\\n  -DJS_RUNTIME_DIR\u003d/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/node_modules/react-native/ReactCommon/jsi \\\n  -DCLIENT_SIDE_BUILD\u003dfalse \\\n  -DIS_NEW_ARCHITECTURE_ENABLED\u003dfalse \\\n  -DREANIMATED_PACKAGE_BUILD\u003d1 \\\n  -DREANIMATED_VERSION\u003d2.17.0 \\\n  -DHERMES_ENABLE_DEBUGGER\u003d0\n",
+    "file_": "/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1789686911
+  },
+  {
+    "level_": 0,
+    "message_": "/Users/adamhendrickson/Library/Android/sdk/cmake/3.18.1/bin/cmake \\\n  -H/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android \\\n  -DCMAKE_SYSTEM_NAME\u003dAndroid \\\n  -DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON \\\n  -DCMAKE_SYSTEM_VERSION\u003d16 \\\n  -DANDROID_PLATFORM\u003dandroid-16 \\\n  -DANDROID_ABI\u003darmeabi-v7a \\\n  -DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a \\\n  -DANDROID_NDK\u003d/Users/adamhendrickson/Library/Android/sdk/ndk/23.1.7779620 \\\n  -DCMAKE_ANDROID_NDK\u003d/Users/adamhendrickson/Library/Android/sdk/ndk/23.1.7779620 \\\n  -DCMAKE_TOOLCHAIN_FILE\u003d/Users/adamhendrickson/Library/Android/sdk/ndk/23.1.7779620/build/cmake/android.toolchain.cmake \\\n  -DCMAKE_MAKE_PROGRAM\u003d/Users/adamhendrickson/Library/Android/sdk/cmake/3.18.1/bin/ninja \\\n  -DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003d/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/build/intermediates/cxx/Debug/334a3r2y/obj/armeabi-v7a \\\n  -DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003d/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/build/intermediates/cxx/Debug/334a3r2y/obj/armeabi-v7a \\\n  -DCMAKE_BUILD_TYPE\u003dDebug \\\n  -B/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/.cxx/Debug/334a3r2y/armeabi-v7a \\\n  -GNinja \\\n  -DANDROID_STL\u003dc++_shared \\\n  -DREACT_NATIVE_MINOR_VERSION\u003d67 \\\n  -DANDROID_TOOLCHAIN\u003dclang \\\n  -DBOOST_VERSION\u003d1_63_0 \\\n  -DREACT_NATIVE_DIR\u003d/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/node_modules/react-native \\\n  -DJS_RUNTIME\u003djsc \\\n  -DJS_RUNTIME_DIR\u003d/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/node_modules/react-native/ReactCommon/jsi \\\n  -DCLIENT_SIDE_BUILD\u003dfalse \\\n  -DIS_NEW_ARCHITECTURE_ENABLED\u003dfalse \\\n  -DREANIMATED_PACKAGE_BUILD\u003d1 \\\n  -DREANIMATED_VERSION\u003d2.17.0 \\\n  -DHERMES_ENABLE_DEBUGGER\u003d0\n",
+    "file_": "/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1628662592
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of /Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/.cxx/Debug/334a3r2y/armeabi-v7a/compile_commands.json.bin normally",
+    "file_": "/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1036035450
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1466505170
+  },
+  {
+    "level_": 0,
+    "message_": "write command file /Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/.cxx/Debug/334a3r2y/armeabi-v7a/metadata_generation_command.txt",
+    "file_": "/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1279461286
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/CMakeLists.txt",
+    "tag_": "debug|armeabi-v7a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 471567914
+  }
+]

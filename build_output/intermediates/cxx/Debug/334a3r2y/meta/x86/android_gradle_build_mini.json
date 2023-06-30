@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/adamhendrickson/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/.cxx/Debug/334a3r2y/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/adamhendrickson/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/.cxx/Debug/334a3r2y/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "reanimated::@6890427a1f51a3e7e1df": {
+      "artifactName": "reanimated",
+      "abi": "x86",
+      "output": "/Users/adamhendrickson/Downloads/react-native-reanimated-2.17.0/android/build/intermediates/cxx/Debug/334a3r2y/obj/x86/libreanimated.so",
+      "runtimeFiles": []
+    }
+  }
+}
